@@ -12,6 +12,7 @@ package com.mycompany.proyectofinalj;
 public class ProyectoFinalJ {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        Formularios.MenuPrincipal objetoMenuPrincipal;
+        objetoMenuPrincipal = new Formularios.MenuPrincipal();
     }
 }
